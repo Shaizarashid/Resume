@@ -1,0 +1,10 @@
+h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 15vh;
+}
+
+.color{
+  background-color: rgb(170, 217, 223);
+}
