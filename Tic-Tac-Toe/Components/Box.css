@@ -1,0 +1,14 @@
+.box{
+    width: 80px;
+    height: 80px;
+    background-color:rgb(255, 255, 255);
+    font-size:60px;
+    border: 2px solid black;
+
+    color: rgb(17, 15, 15); /* Optional: to make the text color stand out against the background */
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
