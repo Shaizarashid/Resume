@@ -11,6 +11,9 @@ How to run:
   Open the uploaded github files on the visualcode.
   Run using the command 'npm run dev'
 
+
+  Project Description: A simple CRUD application.
+
     
 
 
