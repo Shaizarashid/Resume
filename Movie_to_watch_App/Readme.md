@@ -12,3 +12,4 @@ This application allows the users to keep track of all the movies they wish to w
 
 https://github.com/user-attachments/assets/e4d72d1a-e0a1-4766-a559-b307420407c0
 
+![MoviesList](https://github.com/user-attachments/assets/0e14ae86-0e23-42bb-9f6d-8c086057eab3)
